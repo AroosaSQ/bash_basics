@@ -21,13 +21,7 @@ read answer
 if [ "$answer" = "sunday" ] 
 then
    echo "It is the weekend"
-  elif [ "$answer" = "Sunday" ] 
-then
-	echo "It is the weekend"
 elif [ "$answer" = "saturday" ] 
-then
-	echo "It is the weekend"
-elif [ "$answer" = "Saturday" ] 
 then
 	echo "It is the weekend"
 else
