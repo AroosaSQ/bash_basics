@@ -20,16 +20,16 @@ read answer
 
 if [ "$answer" = "sunday" ] 
 then
-   echo "It is the weekend"
+   echo "It is the amazing weekend"
   elif [ "$answer" = "Sunday" ] 
 then
-	echo "It is the weekend"
+	echo "It is the lovely weekend"
 elif [ "$answer" = "saturday" ] 
 then
-	echo "It is the weekend"
+	echo "It is the remarkable weekend"
 elif [ "$answer" = "Saturday" ] 
 then
-	echo "It is the weekend"
+	echo "It is the freaking weekend"
 else
-   echo "It is not the weekend"
+   echo "It is not the damn weekend"
 fi
